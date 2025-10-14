@@ -44,6 +44,13 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 ⭐ Gracias por visitar mi perfil. ¡Estoy abierto a colaborar y seguir aprendiendo con otros desarrolladores!
 
 ## 📊 Mis estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSpectraX&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSpectraX&layout=compact&theme=tokyonight" />
+</p>
 
 ![José María's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSpectraX&show_icons=true&theme=tokyonight)
 
