@@ -41,8 +41,6 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Estoy abierto a colaborar y seguir aprendiendo con otros desarrolladores!
-
 ## 📊 Mis estadísticas en GitHub
 
 <p align="center">
@@ -56,3 +54,5 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 ---
 
 > _“El aprendizaje constante es la base del crecimiento profesional y personal.”_
+
+> ⭐ Gracias por visitar mi perfil. ¡Estoy abierto a colaborar y seguir aprendiendo con otros desarrolladores!
