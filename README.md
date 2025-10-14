@@ -15,6 +15,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 ---
 
 ## 🛠️ Tecnologías y herramientas que utilizo
+<div align="center">
 
 **Lenguajes de programación:**
 - 🟨 JavaScript  
