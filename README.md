@@ -39,7 +39,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 
 ## 📊 Mis estadísticas en GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSpectraX)](https://github.com/DevSpectraX/github-readme-stats)
+[![DevSpectraX GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSpectraX&show_icons=true)](https://github.com/DevSpectraX/github-readme-stats)
 
 
 ---
