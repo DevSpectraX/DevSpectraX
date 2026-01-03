@@ -39,7 +39,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 
 ## 📊 Mis estadísticas en GitHub
 
-![DevSpectraX GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DevSpectraX&show_icons=true&theme=gruvbox)
+![DevSpectraX GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DevSpectraX&show_icons=true&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ---
