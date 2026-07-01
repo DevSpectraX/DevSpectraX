@@ -92,7 +92,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/[DevSpectraX]/juegoRoles">🔗 Ver repositorio</a>
+        <a href="https://github.com/DevSpectraX/juegoRoles">🔗 Ver repositorio</a>
       </p>
     </td>
     <td valign="top" width="50%">
