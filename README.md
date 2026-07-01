@@ -92,7 +92,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/DevSpectraX/juegoRoles">🔗 Ver repositorio</a>
+        <a href="https://github.com/DevSpectraX/1_DAM/tree/main/Proyectos/JuegoRoles">🔗 Ver repositorio</a>
       </p>
     </td>
     <td valign="top" width="50%">
@@ -102,7 +102,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/[DevSpectraX]/CuadradoMagico">🔗 Ver repositorio</a>
+        <a href="https://github.com/DevSpectraX/1_DAM/tree/main/Ampliacion_programacion/Proyectos/Q1/CuadradoMagico">🔗 Ver repositorio</a>
       </p>
     </td>
   </tr>
@@ -115,7 +115,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/[DevSpectraX]/ViajesDelMiro">🔗 Ver repositorio</a>
+        <a href="https://github.com/DevSpectraX/1_DAM/tree/main/Lenguaje_de_marcas/Proyectos/Q2/ViajesDelmiro">🔗 Ver repositorio</a>
       </p>
     </td>
     <td valign="top" width="50%">
@@ -126,7 +126,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
         <img src="https://img.shields.io/badge/JavaFX-375F95?style=for-the-badge&logo=java&logoColor=white" />      
       </p>
       <p>
-        <a href="https://github.com/[DevSpectraX]/Fichador">🔗 Ver repositorio</a>
+        <a href="https://github.com/DevSpectraX/1_DAM/tree/main/Ampliacion_programacion/Proyectos/Q2/Fichador">🔗 Ver repositorio</a>
       </p>
     </td>
   </tr>
