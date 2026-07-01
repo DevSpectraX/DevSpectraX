@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy José María!
+# 👋 ¡Hola, soy Jose!
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [ThePower](https://thepower.education), donde estoy formándome para convertirme en desarrollador full stack.  
 💡 Me apasiona la tecnología, el aprendizaje constante y la posibilidad de crear proyectos que aporten valor real a las personas.  
