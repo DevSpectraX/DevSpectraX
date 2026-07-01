@@ -123,7 +123,7 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
       <p>Fichador sencillo usando JavaFX.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaFX-375F95?style=for-the-badge&logo=java&logoColor=white" />      
+        <img src="https://img.shields.io/badge/JavaFX-375F95?style=flat-square&logo=java&logoColor=white" />      
       </p>
       <p>
         <a href="https://github.com/DevSpectraX/1_DAM/tree/main/Ampliacion_programacion/Proyectos/Q2/Fichador">🔗 Ver repositorio</a>
