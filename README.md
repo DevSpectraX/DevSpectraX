@@ -77,6 +77,62 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 
 </div>
 
+---
+
+## 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎮 Juego de Combate por Turnos</h3>
+      <p>Juego de estrategia desarrollado en Java con POO, serialización y tests unitarios.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/[DevSpectraX]/juegoRoles">🔗 Ver repositorio</a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📝 Cuadrado Mágico</h3>
+      <p>Crea un cuadrado de x lados, que deben de sumar todos lo mismo, en horizontal vertical y diagonal.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/[DevSpectraX]/CuadradoMagico">🔗 Ver repositorio</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🌐 Landing Page</h3>
+      <p>Web de Viajes Peculiar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/[DevSpectraX]/ViajesDelMiro">🔗 Ver repositorio</a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌐 Fichador</h3>
+      <p>Fichador sencillo usando JavaFX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaFX-375F95?style=for-the-badge&logo=java&logoColor=white" />      
+      </p>
+      <p>
+        <a href="https://github.com/[DevSpectraX]/Fichador">🔗 Ver repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 > _“El aprendizaje constante es la base del crecimiento profesional y personal.”_
 
