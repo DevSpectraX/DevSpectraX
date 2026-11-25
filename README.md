@@ -3,8 +3,6 @@
 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [ThePower](https://thepower.education), donde estoy formándome para convertirme en desarrollador especializado en **ciberseguridad**.  
 💡 Me apasiona la tecnología, el aprendizaje constante y la posibilidad de crear proyectos que aporten valor real a las personas.  
 
----
-
 ## 🚀 Sobre mí
 
 Soy una persona curiosa, con ganas de seguir creciendo en el mundo del desarrollo de software.  
@@ -12,23 +10,27 @@ Me encanta enfrentarme a nuevos retos, mejorar mis habilidades y aprender de cad
 
 Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramientas tanto de **frontend** como de **backend** y aparte un **master de ciberseguridad**, lo que me permite tener una visión completa del desarrollo de aplicaciones.
 
----
+
 ## 🛠️ Tecnologías y Herramientas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSpectraX&layout=compact&langs_count=5&theme=tokyonight)
-### 💻 Frameworks
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ### 💻 Lenguajes de Programación
 <p align="left">
-  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### 🚀 Frameworks y Desarrollo Web
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🗄️ Bases de Datos
@@ -37,7 +39,13 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🐳 DevOps & Herramientas
+### ⚙️ Terminal y Automatización
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+### 🐳 DevOps y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -48,10 +56,10 @@ Actualmente, estoy aprendiendo y trabajando con diferentes lenguajes y herramien
 ### 🧩 Entornos de Desarrollo (IDEs)
 <p align="left">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
 ## 🚀 Proyectos Destacados
 
